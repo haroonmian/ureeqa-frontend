@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`email input should accept text 1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: 
+  <h2
+  className="valueShow"
+  data-testid="dats"
+  >
+  7
+  </h2>
+   1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: 
+  <h2
+  className="valueShow"
+  data-testid="dats"
+  >
+  10
+  </h2>
+   1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: 
+  <h2
+  className="valueShow"
+  data-testid="dats"
+  >
+  17
+  </h2>
+   1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: 
+  <h2 className="valueShow" data-testid="dats">{dats}</h2>
+   1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: 
+  <h2 className="valueShow" data-testid="dats">7</h2>
+   1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
+
+exports[`email input should accept text: h1 1`] = `
+<h2
+  class="valueShow"
+  data-testid="dats"
+>
+  hello
+</h2>
+`;
